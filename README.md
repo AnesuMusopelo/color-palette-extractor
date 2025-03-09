@@ -1,0 +1,1 @@
+﻿# Color Palette Extractor
